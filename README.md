@@ -4,6 +4,8 @@
 
 ## Introduction
 Welcome to my portfolio website! This is a showcase of my work, skills, and achievements as a web developer. The website is built using HTML and CSS.
+## Tech stack
+HTML,CSS
 ## Features
 - Responsive design for various screen sizes
 - Eye-catching layout with vibrant colors and stylish fonts
