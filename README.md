@@ -1,7 +1,7 @@
 # poojasri.github.io
 # Portfolio Website
-## Home Page 
-
+## Screenshorts
+![Home Page](Screenshot (197).png)
 ## Introduction
 Welcome to my portfolio website! This is a showcase of my work, skills, and achievements as a web developer. The website is built using HTML and CSS.
 ## Features
