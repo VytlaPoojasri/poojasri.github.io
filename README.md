@@ -1,7 +1,7 @@
-# poojasri.github.io
 # Portfolio Website
 ## Screenshorts
-![Home Page](Screenshot (197).png)
+![Screenshot (197)](https://github.com/VytlaPoojasri/poojasri.github.io/assets/142606627/20f560d8-906a-41ca-a153-9272012325f8)
+
 ## Introduction
 Welcome to my portfolio website! This is a showcase of my work, skills, and achievements as a web developer. The website is built using HTML and CSS.
 ## Features
